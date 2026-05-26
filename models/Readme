@@ -1,0 +1,11 @@
+# Model Files
+
+Download the following files and place them in this folder:
+
+| File           | Size    | Download                                                                  |
+| -------------- | ------- | ------------------------------------------------------------------------- |
+| yolov3.weights | ~236 MB | https://pjreddie.com/media/files/yolov3.weights                           |
+| yolov3.cfg     | ~8 KB   | https://raw.githubusercontent.com/pjreddie/darknet/master/cfg/yolov3.cfg  |
+| coco.names     | ~1 KB   | https://raw.githubusercontent.com/pjreddie/darknet/master/data/coco.names |
+
+These files are excluded from Git due to their size.
